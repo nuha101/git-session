@@ -1,2 +1,2 @@
-name = "nuha":wq
+name = "nuha"
 
