@@ -1,2 +1,5 @@
-name = "nuha":wq
+def greeting():
+  return "Hello, Nuha!"
+
+
 
